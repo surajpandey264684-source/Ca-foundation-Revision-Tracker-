@@ -1,0 +1,16 @@
+manifest.json
+{
+  "name": "CA Revision Tracker",
+  "short_name": "RevTracker",
+  "start_url": "/Ca-foundation-Revision-Tracker-/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#facc15",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/facc15/000000?text=CA",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
